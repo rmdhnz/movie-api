@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
 import Card from "./components/Card";
-import "./source.css";
 import { IoIosCloseCircle as CloseBtn } from "react-icons/io";
 export default class App extends Component {
   constructor(props) {
